@@ -1,0 +1,30 @@
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+}
+.para {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.button {
+  font-size: 14px;
+  color: #1e293b;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border-width: 0px;
+  padding: 10px;
+  font-family: 'Bree Serif';
+}
+.cont {
+  background-color: #1e293b;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
